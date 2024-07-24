@@ -1,0 +1,22 @@
+.bg-img-1{
+    background-image: url('https://images.pexels.com/photos/163185/old-retro-antique-vintage-163185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+
+.bg-img-2{
+    background-image: url('https://images.pexels.com/photos/196655/pexels-photo-196655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+.bg-img-3{
+    background-image: url('https://images.pexels.com/photos/3856039/pexels-photo-3856039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+
+
+.carousel-image{
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-center{
+    font-weight: 100px;
+}
